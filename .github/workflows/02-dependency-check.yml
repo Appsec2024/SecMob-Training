@@ -50,27 +50,3 @@ jobs:
         uses: github/codeql-action/upload-sarif@v2
         with:
           sarif_file: ${{github.workspace}}/reports/dependency-check-report.sarif
-Collapse
-
-
-
-
-
-
-
-
-
-
-
-
-
-Message owasp-appsec-eu-mobile-training-2025
-
-
-
-
-
-
-
-
-
